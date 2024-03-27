@@ -14,7 +14,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-%23000000.svg?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.MySQL.com/)
 [![PostgreSQL](https://img.shields.io/badge/Postgresql-%23777BB4.svg?style=for-the-badge&logo=Postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Redis](https://img.shields.io/badge/Redis-%20777B34.svg?style=for-the-badge&logo=Redis&logoColor=white)](https://www.Redis.com/)
-[![Kafka](https://img.shields.io/badge/Kafka-%6DA55F.svg?style=for-the-badge&logo=Kafka&logoColor=white)](https://kafka.apache.org/)
+[![Kafka](https://img.shields.io/badge/Kafka-%9558B2.svg?style=for-the-badge&logo=Kafka&logoColor=white)](https://kafka.apache.org/)
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%230175C2.svg?style=for-the-badge&logo=RabbitMQ&logoColor=white)](https://www.RabbitMQ.com/)
 [![AWS](https://img.shields.io/badge/AWS-%235391FE.svg?style=for-the-badge&logo=AWS&logoColor=white)](https://aws.amazon.com)
 
