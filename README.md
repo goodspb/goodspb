@@ -11,7 +11,13 @@
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://wikipedia.org/wiki/JavaScript)
 [![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![MySQL](https://img.shields.io/badge/MySQL-%23777B34.svg?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.MySQL.com/)
+[![PostgreSQL](https://img.shields.io/badge/Postgresql-%21726B35.svg?style=for-the-badge&logo=Postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Redis](https://img.shields.io/badge/Redis-%20777B34.svg?style=for-the-badge&logo=Redis&logoColor=white)](https://www.Redis.com/)
+[![Kafka](https://img.shields.io/badge/Redis-%19777B34.svg?style=for-the-badge&logo=Kafka&logoColor=white)](https://kafka.apache.org/)
+[![RabbitMQ](https://img.shields.io/badge/Redis-%19777B34.svg?style=for-the-badge&logo=RabbitMQ&logoColor=white)](https://www.RabbitMQ.com/)
+[![AWS](https://img.shields.io/badge/AWS-%18777B34.svg?style=for-the-badge&logo=AWS&logoColor=white)](https://aws.amazon.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goodspb&layout=donut&theme=dracula&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goodspb&layout=compact&theme=dracula&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=goodspb&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
